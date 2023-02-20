@@ -2,20 +2,20 @@
 
 # Contents
 
-- [Overview](https://github.com/boradRushil/Covid-19-Virus-Spread-Simulation-and-Prediction/edit/main/README.md#overview)
-- [Objective](https://github.com/boradRushil/Covid-19-Virus-Spread-Simulation-and-Prediction/edit/main/README.md#objective)
-- [Methods and Materials](https://github.com/boradRushil/Covid-19-Virus-Spread-Simulation-and-Prediction/edit/main/README.md#methods-and-materials)
-  - [S.I.R Model for prediction](#_Toc58511680)
-- [Outputs of the model](#_Toc58511681)
-  - [Demo output of SIR model](#_Toc58511682)
-  - [User defined output of SIR model](#_Toc58511683)
-- [Comparison of different viruses](#_Toc58511684)
-  - [Swine flu VS Ebola virus](#_Toc58511685)
-  - [Corona VS Ebola virus](#_Toc58511686)
-  - [Corona VS Swine flu virus](#_Toc58511687)
-- [India's Situation on COVID-19 virus](#_Toc58511688)
-- [Conclusion](#_Toc58511689)
-- [References](#_Toc58511690)
+- [Overview](#overview)
+- [Objective](#objective)
+- [Methods and Materials](#methods-and-materials)
+  - [S.I.R Model for prediction](#sir-model-for-prediction)
+- [Outputs of the model](#outputs-of-the-model)
+  - [Demo output of SIR model](#demo-output-of-sir-model)
+  - [User defined output of SIR model](#user-defined-output-of-sir-model)
+- [Comparison of different viruses](#comparison-of-different-viruses)
+  - [Swine flu VS Ebola virus](#swine-flu-vs-ebola-virus)
+  - [Corona VS Ebola virus](#corona-vs-ebola-virus)
+  - [Corona VS Swine flu virus](#corona-vs-swine-flu-virus)
+- [India's Situation on COVID-19 virus](#india's-situation-on-covid19-virus)
+- [Conclusion](#conclusion)
+- [References](#references)
 
 ## Overview
 
