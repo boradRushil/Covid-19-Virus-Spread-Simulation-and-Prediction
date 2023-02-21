@@ -51,7 +51,7 @@ This can be represented mathematically below:
 
 Here it is assumed that total population N is fixed (No birth or deaths).
 
-Therefore**, N = S + I + R.**
+Therefore, **N = S + I + R.**
 
 Here S= number of susceptible people.
 
