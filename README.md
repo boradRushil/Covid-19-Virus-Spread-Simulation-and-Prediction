@@ -1,5 +1,12 @@
 # **SIMULATION OF SPREAD OF VIRUS USING SIR MODEL**
 
+## Technologies Used:
+> - Python 
+> - Pandas
+> - Matplotlib
+> - Numpy
+> - Scipy
+
 # Contents
 
 - [Overview](#overview)
