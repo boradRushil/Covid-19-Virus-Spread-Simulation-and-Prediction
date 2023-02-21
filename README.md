@@ -39,11 +39,11 @@ This study focuses on the application of S.I.R models and statistical analysis t
 
 - The diseases spread or outbreak is severe.
 - The total population (N) is constant.
-- II. Any individual in the population has an equal probability of contracting receiving the viruses.
-- III. The number of people leaving a certain category is equal to the number of people joining a new category (i.e., the number of people leaving the susceptibility category is equivalent to the number of people joining the infected category).
-- IV. The rate of recovery is faster than the time scale of birth and death
-- V. There is homogenous mixing of population whereby each individual encounter contacts with similar people in ratio to each category
-- VI. Everyone who gets infected is removed from the population either through recovery or death.
+- Any individual in the population has an equal probability of contracting receiving the viruses.
+- The number of people leaving a certain category is equal to the number of people joining a new category (i.e., the number of people leaving the susceptibility category is equivalent to the number of people joining the infected category).
+- The rate of recovery is faster than the time scale of birth and death
+- There is homogenous mixing of population whereby each individual encounter contacts with similar people in ratio to each category
+- Everyone who gets infected is removed from the population either through recovery or death.
 
 This can be represented mathematically below:
 ![image](https://user-images.githubusercontent.com/73428876/220174085-d4f3b164-526e-49a6-a15d-739ba5877b62.png)
