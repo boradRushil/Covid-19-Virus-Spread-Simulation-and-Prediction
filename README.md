@@ -51,7 +51,7 @@ This can be represented mathematically below:
 
 Here it is assumed that total population N is fixed (No birth or deaths).
 
-Therefore_ **, N = S + I + R** _
+Therefore**, N = S + I + R.**
 
 Here S= number of susceptible people.
 
@@ -78,18 +78,18 @@ In the above Equation:
 ![image](https://user-images.githubusercontent.com/73428876/220174567-577650ec-97b6-4915-ab74-23474c41452b.png)
 
 
-> dS/dt = − β SI/N the only way an individual can leave the susceptible compartment is by coming into contact with somebody who has the infection and because of this, the righthand side (RHS) of equation is negative.
+>**[dS/dt = − β SI/N]** the only way an individual can leave the susceptible compartment is by coming into contact with somebody who has the infection and because of this, the righthand side (RHS) of equation is negative.
 
-> dI/dt= (β SI/N)– γI can be easily stated as the rate of flow of individual comes from the infected keeping total population constant and subtracting the recovered ones.
+>**[ dI/dt= (β SI/N) – γI]** can be easily stated as the rate of flow of individual comes from the infected keeping total population constant and subtracting the recovered ones.
 
-> dR/dt **=** γ_I_ the transition rate form is assumed to be proportional to the number of infectious individuals which is γ_I_.
+>**[dR/dt = γI]** the transition rate form is assumed to be proportional to the number of infectious individuals which is _γI_.
 
 To calculate we need to define one or more parameter.
 D=duration of disease for those recovered (time taken for recovery)
 
-This leads to Between _I_ and _R_, this is equivalent to assuming that the probability of an infectious individual recovering in any time interval _dt_ is simply γ_dt_. If an individual is infectious for an average time period _D_, then **γ = 1/** _ **D** _. This is also equivalent to the assumption that the length of time spent by an individual in the infectious state is a random variable with an exponential distribution.
+This leads to Between _I_ and _R_, this is equivalent to assuming that the probability of an infectious individual recovering in any time interval _dt_ is simply _γdt_. If an individual is infectious for an average time period _D_, then **γ = 1/D**. This is also equivalent to the assumption that the length of time spent by an individual in the infectious state is a random variable with an exponential distribution.
 
-**Basic Reproductive ratio** ( **R0= β/**  **γ** )**
+> **Basic Reproductive ratio** ( **R0= β/**  **γ** )
 
 When R0 ≤1, then I (t)decrease monotonically to zero as t →∞
 
